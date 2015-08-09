@@ -1,7 +1,7 @@
 # ReadMe
 ## Introduction
 ### Energy usage over a 2-day period in February, 2007 
-__This repo is for the course project of "Exploratory Data Analysis" organized by Jeff Leek, PhD, Roger D. Peng, PhD, Brian Caffo, PhD, at Johns Hopkins, through Coursera.__ The original repo is at: https://github.com/zweinstein/ExData_Plotting1.git
+__This repo is for the course project of "Exploratory Data Analysis" organized by Jeff Leek, PhD, Roger D. Peng, PhD, Brian Caffo, PhD, at Johns Hopkins, through Coursera.__ The original repo is at: https://github.com/rdpeng/ExData_Plotting1
 
 The original data are from the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine Learning Repository</a>, a popular repository for machine learning datasets. In particular, this analysis uses "Individual household
 electric power consumption Data Set":
